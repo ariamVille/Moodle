@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Moodle</string>
+    <string name="titleString">Moodle</string>
+    <string name="loginString">Login</string>
+    <string name="forgotString">If you forget your username or password please contact your administrator</string>
+    <string name="studentString">Student</string>
+    <string name="teacherString">Teacher</string>
+    <string name="usernameString">Username</string>
+    <string name="passwordString">Password</string>
+    <string name="enterAddressString">Please enter your email address</string>
+    <string name="submitString">Submit</string>
+    <string name="announcementsString">Announcements</string>
+    <string name="subFoldersString">Subject Folders</string>
+    <string name="finalGradesString">Final Grades</string>
+    <string name="logoutString">Logout</string>
+    <string name="eventsString">Events</string>
+    <string name="resourceString">Resources</string>
+    <string name="marksString">Marks</string>
+    <string name="submitAssignmentString">Submit Assignment</string>
+    <string name="enterAssignmentTitleString">Enter assignment title</string>
+    <string name="enterAssignmentPathString">Enter assignment path</string>
+    <string name="browseString">Browse</string>
+    <string name="sdcardFolderNoticeString">Please save all files to the sdcard folder</string>
+</resources>
